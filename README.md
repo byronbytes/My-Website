@@ -1,4 +1,3 @@
 # My Website
-
-I dunno I wanted to do something in HTML.
+A little project that I made in HTML. Mostly just about me! So you can learn some info about me.
 
